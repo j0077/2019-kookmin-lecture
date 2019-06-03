@@ -24,3 +24,4 @@ https://github.com/jangjieun00/2019_KMU_Hackathon_team6</br>
 </br>
 아래는 참가 사진이다</br> 
 <img src="./media_src/Hackathon1.JPG" width="200"></br> 
+<img src="./media_src/Hackathon0.JPG" width="200"></br>
