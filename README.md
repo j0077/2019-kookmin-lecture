@@ -1,5 +1,5 @@
 # 2019-kookmin-lecture
-2019 1학기 국민대학교 산업체특강(Kookmin University Software Special Lecture)</br>
+2019 1학기 국민대학교 산업체특강</br>(Kookmin University Software Special Lecture)</br>
 ---------------------------------------------------------------------------------
 lec 1 ) 3월 18일 신임교수 특집 - 박하명 소프트웨어학부 신임 교수님 강연</br>
 lec 2 ) 금융 서비스 Front-end - 이승민 개발자님 (뱅크샐러드) 강연</br>
