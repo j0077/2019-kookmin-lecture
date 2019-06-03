@@ -37,4 +37,3 @@ web service : docker image로 배포, staging server를 구축해서 Blue/green 
 Google analytics 등을 사용하여 고객들이 어떤식으로 소프트웨어를 이용하는지 추적해 볼 수 있다.</br>
 ELk stack - 로그 데이터들을 시각화 하고 정리해준다.</br>
 사용자 경험 데이터 자체가 자산이다.
-Flash build 
