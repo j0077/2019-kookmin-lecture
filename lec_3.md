@@ -11,9 +11,12 @@
 software production이란 무엇인가?</br>
 예시) Disney studio의 제작 프로세스, 영화 제작의 production 단계 ..</br>
 프로젝트의 성공률 : 폭포수 모델 < 애자일 모델 </br>
-실패 확률은 애자일 모델이 더 낮긴 하지만 그래도 실패를 함! </br>
+실패 확률은 애자일 모델이 더 낮긴 하지만 그래도 실패를 함! </br></br>
 디자인 챌린지 : Design challenge</br>
 ->질문의 질이 답의 질을 결정한다!!</br>
 방법1) 어떻게 하면 ~ 할 수 있을까? 질문하기</br>
 방법2) Lean canvas </br>
-![1] (lean_canvas.jpeg)
+![1] (lean_canvas.png)
+
+방법3) working backwards</br>
+거꾸로 제품을 만드는 방법
