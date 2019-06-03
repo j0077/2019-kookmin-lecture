@@ -16,7 +16,7 @@ software production이란 무엇인가?</br>
 ->질문의 질이 답의 질을 결정한다!!</br>
 방법1) 어떻게 하면 ~ 할 수 있을까? 질문하기</br>
 방법2) Lean canvas </br>
-<img src="./lean_canvas.png" width="600">
+<img src="./media_src/lean_canvas.png" width="600">
 
 방법3) working backwards</br>
 거꾸로 제품을 만드는 방법 : 발표자료를 먼저 만들어라! 또는 컨퍼런스 발표 자료를 만들어라 </br>
