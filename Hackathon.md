@@ -23,5 +23,4 @@ https://github.com/jangjieun00/2019_KMU_Hackathon_team6</br>
 30시간 가까이 잠을 못자서 피곤했지만! 앞으로 다른 해커톤 대회에도 꾸준히 참가할 계획이다 (그 때는 잠을 충분히 자고 대회에 참가해야겠다..</br> 
 </br>
 아래는 참가 사진이다</br> 
-<img src="./media_src/Hackathon1.JPG" width="200"></br> 
-<img src="./media_src/Hackathon0.JPG" width="200"></br>
+<img src="./media_src/Hackathon1.JPG" width="200"></br>
