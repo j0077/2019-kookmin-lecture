@@ -25,3 +25,16 @@ software production이란 무엇인가?</br>
 고객이 실제로 원하는 것을 찾기 : 인터뷰 및 관찰활동 , CDM과 같은 인지 분석 활동 (기획자가 하는 일)  </br>
 새로운 것을 자꾸 발견할 수 있어야한다.</br>
 초기 단계일 수록 문서는 일부러 짧게 쓴다. 생각을 단순하게 만들기 좋다 (자료수집은 많이 한다.) 외국어로 작성하는 것도 추천</br>
+</br>
+올라간 서비스나 돌아가는 소프트웨어가 제대로 도는지 바로 보는 방법!</br>
+Jenkins Travis CI 사용하여 Continuous integration, Continuous Distribution/Deployment를 만든다.</br>
+Git flow와 같이 Branch를 이용한 기능 개발 관리를 이용하고 Merge가 될 때마다 C/I, C/D를 돌아가게 해야한다. </br>
+Unit test/ integration test는 반드시 있어야한다. </br>
+ios: Test flight</br>
+android : google play console - open/close test</br>
+web service : docker image로 배포, staging server를 구축해서 Blue/green deployment전략을 이용해서 배포 테스트</br>
+</br>
+Google analytics 등을 사용하여 고객들이 어떤식으로 소프트웨어를 이용하는지 추적해 볼 수 있다.</br>
+ELk stack - 로그 데이터들을 시각화 하고 정리해준다.</br>
+사용자 경험 데이터 자체가 자산이다.
+Flash build 
