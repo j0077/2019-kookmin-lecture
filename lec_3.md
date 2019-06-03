@@ -27,6 +27,7 @@ software production이란 무엇인가?</br>
 초기 단계일 수록 문서는 일부러 짧게 쓴다. 생각을 단순하게 만들기 좋다 (자료수집은 많이 한다.) 외국어로 작성하는 것도 추천</br>
 </br>
 올라간 서비스나 돌아가는 소프트웨어가 제대로 도는지 바로 보는 방법!</br>
+다음과 같은 tool을 이용한다.</br> 
 Jenkins Travis CI 사용하여 Continuous integration, Continuous Distribution/Deployment를 만든다.</br>
 Git flow와 같이 Branch를 이용한 기능 개발 관리를 이용하고 Merge가 될 때마다 C/I, C/D를 돌아가게 해야한다. </br>
 Unit test/ integration test는 반드시 있어야한다. </br>
